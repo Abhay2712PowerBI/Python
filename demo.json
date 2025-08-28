@@ -1,0 +1,19 @@
+{
+  "conversations": [
+    {
+      "id": 1,
+      "user": "Hi, how are you?",
+      "bot": "I am fine, thank you! How about you?"
+    },
+    {
+      "id": 2,
+      "user": "What is artificial intelligence?",
+      "bot": "Artificial Intelligence is the simulation of human intelligence in machines."
+    },
+    {
+      "id": 3,
+      "user": "Can you tell me about space?",
+      "bot": "Space is the vast region beyond Earth's atmosphere containing stars, planets, and galaxies."
+    }
+  ]
+}
